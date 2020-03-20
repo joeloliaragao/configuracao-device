@@ -18,10 +18,10 @@
     "kioskMode": true,
     "permissionSMS": false,
     "acoes": [
-      { "nome": "site", "url": "a", "tipo": "LINK", "ativo": true },
-      { "nome": "pagamento", "url": "a", "tipo": "APLICATIVO", "ativo": true },
-      { "nome": "legislacao", "url": "a", "tipo": "PDF", "ativo": true },
-      { "nome": "calculadora", "url": "", "tipo": "APLICATIVO", "ativo": true }
+      { "nome": "site", "url": "", "packageName": "", "tipo": "LINK", "ativo": true },
+      { "nome": "Contato", "url": "", "packageName": "com.google.android.contacts", "tipo": "APLICATIVO", "ativo": true },
+      { "nome": "legislacao", "url": "", "packageName": "", "tipo": "PDF", "ativo": true },
+      { "nome": "calculadora", "url": "","packageName": "com.google.android.calculator", "tipo": "APLICATIVO", "ativo": true }
     ]
   }
 }
