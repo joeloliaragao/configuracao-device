@@ -21,7 +21,7 @@
       { "nome": "site", "url": "", "packageName": "", "tipo": "LINK", "ativo": true },
       { "nome": "Contato", "url": "", "packageName": "com.google.android.contacts", "tipo": "APLICATIVO", "ativo": true },
       { "nome": "legislacao", "url": "", "packageName": "", "tipo": "PDF", "ativo": true },
-      { "nome": "calculadora", "url": "","packageName": "com.google.android.calculator", "tipo": "APLICATIVO", "ativo": true }
+      { "nome": "calculadora", "url": "", "packageName": "com.google.android.calculator", "tipo": "APLICATIVO", "ativo": true }
     ]
   }
 }
