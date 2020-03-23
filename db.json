@@ -7,9 +7,10 @@
     "permissionSMS": false,
     "acoes": [
       { "nome": "site", "url": "", "packageName": "", "tipo": "LINK", "ativo": true },
-      { "nome": "Contato", "url": "", "packageName": "com.android.contacts", "tipo": "APLICATIVO", "ativo": true },
+      { "nome": "Calc", "url": "", "packageName": "com.sec.android.app.popupcalculator", "tipo": "APLICATIVO", "ativo": true },
       { "nome": "legislacao", "url": "", "packageName": "", "tipo": "PDF", "ativo": true },
-      { "nome": "Clock", "url": "", "packageName": "com.google.android.deskclock", "tipo": "APLICATIVO", "ativo": true }
+      { "nome": "Agenda", "url": "", "packageName": "com.samsung.android.calendar", "tipo": "APLICATIVO", "ativo": true }
     ]
   }
 }
+0
