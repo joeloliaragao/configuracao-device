@@ -1,4 +1,7 @@
 {
+  "profile": {
+    "name": "typicode"
+  },
   "configuracao": {
     "permissionVolume": false,
     "permissionCamera": false,
